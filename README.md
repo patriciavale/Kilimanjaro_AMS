@@ -1,4 +1,4 @@
-# Kilimanjaro_AMS
+# Kilimanjaro
 An application's prototype for an outdoor activity focused company. Made for the Analysis And Modelling Of Systems (AMS) course, in University of Aveiro.
 
 ## Introduction

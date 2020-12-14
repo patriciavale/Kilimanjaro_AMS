@@ -12,6 +12,7 @@ This application is composed by an extensive number of screens where the user ca
  - **Saved** (Saved activities and their details)
  - **Notification** (User's notifications, such as chat messages)
  - **Profile** (The user's profile and settings)
+ - **Guide** (The application view from the PoV of a guide)
  - **Administration** (Administrative tools, available only to the administrator)
  
  ## This repository

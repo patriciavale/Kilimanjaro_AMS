@@ -10,7 +10,7 @@ This application is composed by an extensive number of screens where the user ca
  - **Discover** (List of activities and their details)
  - **Suggested** (Suggested activities and their details)
  - **Saved** (Saved activities and their details)
- - **Notification** (User notifications, such as chat messages)
+ - **Notification** (User's notifications, such as chat messages)
  - **Profile** (The user's profile)
  - **Administration** (Administrative tools, available only to the administrator)
  

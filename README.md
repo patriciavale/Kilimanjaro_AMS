@@ -2,7 +2,7 @@
 An application's prototype for an outdoor activity focused company. Made for the Analysis And Modelling Of Systems (AMS) course, in University of Aveiro.
 
 ## Introduction
-Kilimanjaro allows its users to buy a ticket, accommodation and transport in one single application. It is designed for adventurous people looking for their next journey.
+Kilimanjaro allows its users to buy a ticket, accommodation and transport in one single application. It is designed for adventurous people looking for their next journey. It also allows businesses ("guides") and post their activities for others to sign up.
 
 ## The application
 This application is composed by an extensive number of screens where the user can navigate through. These are divided into the following categories:

@@ -18,4 +18,4 @@ This application is composed by an extensive number of screens where the user ca
  This repository displays the different screens of the application, as well as some diagrams of the use cases, components and classes.
  
  ## Credits
- This project was made by Patrícia Vale, João Correia, Mariana Mendes and Vítor Morais.
+ This project was made by Patrícia Vale, João Correia, Mariana Mendes and Vítor Morais, for the Analysis And Modelling Of Systems (AMS) course in University of Aveiro, in 2017.

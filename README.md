@@ -4,7 +4,7 @@ An application's prototype for an outdoor activity focused company. Made for the
 ## Introduction
 Kilimanjaro allows its users to buy a ticket, accommodation and transport in one single application. It is designed for adventurous people looking for their next journey. It also allows businesses ("guides") and post their activities for others to sign up.
 
-## The application
+## Application
 This application is composed by an extensive number of screens where the user can navigate through. These are divided into the following categories:
  - **Start** (Sign up and log in)
  - **Discover** (List of activities and their details)
@@ -15,7 +15,7 @@ This application is composed by an extensive number of screens where the user ca
  - **Guide** (The application view from the PoV of a guide)
  - **Administration** (Administrative tools, available only to the administrator)
  
- ## This repository
+ ## Repository
  This repository displays the different screens of the application, as well as some diagrams of the use cases, components and classes.
  
  ## Credits

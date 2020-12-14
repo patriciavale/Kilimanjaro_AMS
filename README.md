@@ -11,7 +11,7 @@ This application is composed by an extensive number of screens where the user ca
  - **Suggested** (Suggested activities and their details)
  - **Saved** (Saved activities and their details)
  - **Notification** (User's notifications, such as chat messages)
- - **Profile** (The user's profile)
+ - **Profile** (The user's profile and settings)
  - **Administration** (Administrative tools, available only to the administrator)
  
  ## This repository
